@@ -1,2 +1,1 @@
-# simpsons2
-The Simpsons: Hit &amp; Run full source code
+https://archive.org/details/shar-source
